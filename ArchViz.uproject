@@ -30,6 +30,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "DatasmithImporter",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
