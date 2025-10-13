@@ -1987,4 +1987,15 @@ C:\Test\uzhupud\Plugins\MetaXR\Intermediate\Build\Android\a\UnrealGame\Developme
   C:/Test/uzhupud/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRAsyncRequest/UHT/OculusXRAsyncRequestSubsystem.generated.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
   Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
-  Runtime/Engine/Classes/Engine/GameInstance.h
+  Runtime/Engine/Classes/Engine/GameInstance.h \
+  C:/Test/uzhupud/Plugins/MetaXR/Source/OculusXRAsyncRequest/Private/OculusXRAsyncRequestModule.cpp \
+  C:/Test/uzhupud/Plugins/MetaXR/Source/OculusXRAsyncRequest/Private/OculusXRAsyncRequestModule.h \
+  C:/Test/uzhupud/Plugins/MetaXR/Source/OculusXRAsyncRequest/Public/IOculusXRAsyncRequestModule.h \
+  Runtime/Core/Public/Modules/ModuleManager.h \
+  C:/Test/uzhupud/Plugins/MetaXR/Source/OculusXRAsyncRequest/Private/OculusXRAsyncRequestSubsystem.cpp \
+  C:/Test/uzhupud/Plugins/MetaXR/Source/OculusXRAsyncRequest/Public/OculusXRAsyncRequestSystem.h \
+  C:/Test/uzhupud/Plugins/MetaXR/Source/OculusXRAsyncRequest/Public/OculusXRAsyncRequestBase.h \
+  Runtime/Core/Public/Templates/TypeHash.h \
+  Runtime/Core/Public/Templates/SharedPointer.h \
+  Runtime/Engine/Classes/Engine/World.h \
+  C:/Test/uzhupud/Plugins/MetaXR/Source/OculusXRAsyncRequest/Private/OculusXRAsyncRequestSystem.cpp
