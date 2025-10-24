@@ -25,26 +25,26 @@ struct FRandomStream;
 #endif
 #define MRUTILITYKIT_MRUtilityKitRoom_generated_h
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_71_GENERATED_BODY \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_71_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FMRUKAnchorWithPlaneUVs_Statics; \
 	MRUTILITYKIT_API static class UScriptStruct* StaticStruct();
 
 
 template<> MRUTILITYKIT_API UScriptStruct* StaticStruct<struct FMRUKAnchorWithPlaneUVs>();
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_100_DELEGATE \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_100_DELEGATE \
 static void FOnAnchorUpdated_DelegateWrapper(const FMulticastScriptDelegate& OnAnchorUpdated, AMRUKAnchor* Anchor);
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_101_DELEGATE \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_101_DELEGATE \
 static void FOnAnchorCreated_DelegateWrapper(const FMulticastScriptDelegate& OnAnchorCreated, AMRUKAnchor* Anchor);
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_102_DELEGATE \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_102_DELEGATE \
 static void FOnAnchorRemoved_DelegateWrapper(const FMulticastScriptDelegate& OnAnchorRemoved, AMRUKAnchor* Anchor);
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execAddAnchorToRoom); \
 	DECLARE_FUNCTION(execComputeCentroid); \
 	DECLARE_FUNCTION(execGenerateProceduralSceneMesh); \
@@ -73,7 +73,7 @@ static void FOnAnchorRemoved_DelegateWrapper(const FMulticastScriptDelegate& OnA
 	DECLARE_FUNCTION(execIsPositionInRoom);
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_INCLASS_NO_PURE_DECLS \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMRUKRoom(); \
 	friend struct Z_Construct_UClass_AMRUKRoom_Statics; \
@@ -82,7 +82,7 @@ public: \
 	DECLARE_SERIALIZER(AMRUKRoom)
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_ENHANCED_CONSTRUCTORS \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AMRUKRoom(AMRUKRoom&&); \
@@ -94,13 +94,13 @@ public: \
 	NO_API virtual ~AMRUKRoom();
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_94_PROLOG
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_GENERATED_BODY \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_94_PROLOG
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_INCLASS_NO_PURE_DECLS \
-	FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_ENHANCED_CONSTRUCTORS \
+	FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_INCLASS_NO_PURE_DECLS \
+	FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h_97_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -108,7 +108,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> MRUTILITYKIT_API UClass* StaticClass<class AMRUKRoom>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h
+#define CURRENT_FILE_ID FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitRoom_h
 
 
 #define FOREACH_ENUM_EMRUKSPAWNLOCATION(op) \

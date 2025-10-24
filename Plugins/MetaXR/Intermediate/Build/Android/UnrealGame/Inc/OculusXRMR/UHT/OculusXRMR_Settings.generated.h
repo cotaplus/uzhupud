@@ -16,7 +16,7 @@ enum class EOculusXRMR_CompositionMethod : uint8;
 #endif
 #define OCULUSXRMR_OculusXRMR_Settings_generated_h
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execSaveToIni); \
 	DECLARE_FUNCTION(execLoadFromIni); \
 	DECLARE_FUNCTION(execGetBindToTrackedCameraIndex); \
@@ -29,7 +29,7 @@ enum class EOculusXRMR_CompositionMethod : uint8;
 	DECLARE_FUNCTION(execGetCompositionMethod);
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_INCLASS_NO_PURE_DECLS \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUOculusXRMR_Settings(); \
 	friend struct Z_Construct_UClass_UOculusXRMR_Settings_Statics; \
@@ -38,7 +38,7 @@ public: \
 	DECLARE_SERIALIZER(UOculusXRMR_Settings)
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_ENHANCED_CONSTRUCTORS \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	UOculusXRMR_Settings(UOculusXRMR_Settings&&); \
@@ -50,13 +50,13 @@ public: \
 	NO_API virtual ~UOculusXRMR_Settings();
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_40_PROLOG
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_GENERATED_BODY \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_40_PROLOG
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_INCLASS_NO_PURE_DECLS \
-	FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_ENHANCED_CONSTRUCTORS \
+	FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_INCLASS_NO_PURE_DECLS \
+	FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h_43_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -64,7 +64,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> OCULUSXRMR_API UClass* StaticClass<class UOculusXRMR_Settings>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h
+#define CURRENT_FILE_ID FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMR_Settings_h
 
 
 #define FOREACH_ENUM_EOCULUSXRMR_CAMERADEVICEENUM(op) \

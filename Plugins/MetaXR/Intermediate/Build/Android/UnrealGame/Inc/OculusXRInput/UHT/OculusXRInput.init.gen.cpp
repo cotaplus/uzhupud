@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRInput_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x879FB583,
+				0xF7FA07D9,
 				0xA742C6CE,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRInput_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_OculusXRInput.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_OculusXRInput(Z_Construct_UPackage__Script_OculusXRInput, TEXT("/Script/OculusXRInput"), Z_Registration_Info_UPackage__Script_OculusXRInput, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x879FB583, 0xA742C6CE));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_OculusXRInput(Z_Construct_UPackage__Script_OculusXRInput, TEXT("/Script/OculusXRInput"), Z_Registration_Info_UPackage__Script_OculusXRInput, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xF7FA07D9, 0xA742C6CE));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

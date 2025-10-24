@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define OCULUSXRCOLOCATION_OculusXRColocationSession_generated_h
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRColocation_Public_OculusXRColocationSession_h_11_GENERATED_BODY \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRColocation_Public_OculusXRColocationSession_h_11_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FOculusXRColocationSession_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> OCULUSXRCOLOCATION_API UScriptStruct* StaticStruct<struct FOculusXRColocationSession>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRColocation_Public_OculusXRColocationSession_h
+#define CURRENT_FILE_ID FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRColocation_Public_OculusXRColocationSession_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

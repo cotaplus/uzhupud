@@ -5,8 +5,8 @@
 -I"Runtime\\OpenGLDrv\\Private"
 -I"Runtime\\Engine\\Classes\\Components"
 -I"Runtime\\Engine\\Classes\\Kismet"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source\\OculusXRMR\\Public"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source\\OculusXRHMD\\Private"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source\\OculusXRMR\\Public"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source\\OculusXRHMD\\Private"
 -I"Runtime\\Core\\Public"
 -I"Runtime\\Core\\Internal"
 -I"Runtime\\TraceLog\\Public"
@@ -133,7 +133,7 @@
 -I"..\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\MediaUtils\\UHT"
 -I"Runtime\\MediaUtils\\Public"
 -I"Runtime\\VulkanRHI\\Public"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source\\ThirdParty\\OVRPlugin\\OVRPlugin\\Include"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source\\ThirdParty\\OVRPlugin\\OVRPlugin\\Include"
 -I"..\\Plugins\\Runtime\\ProceduralMeshComponent\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\ProceduralMeshComponent\\UHT"
 -I"..\\Plugins\\Runtime\\ProceduralMeshComponent\\Source"
 -I"..\\Plugins\\Runtime\\ProceduralMeshComponent\\Source\\ProceduralMeshComponent\\Public"
@@ -152,20 +152,20 @@
 -I"Runtime\\AugmentedReality\\Public"
 -I"..\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\MRMesh\\UHT"
 -I"Runtime\\MRMesh\\Public"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\OculusXRHMD\\UHT"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\OculusXRHMD\\UHT"
 -I"..\\Plugins\\Runtime\\OpenXR\\Source\\OpenXRHMD\\Private"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source\\OculusXRHMD\\Public"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source\\ThirdParty\\KhronosOpenXR\\include"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source\\ThirdParty\\KhronosOpenXR\\src\\common"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source\\OculusXRHMD\\Public"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source\\ThirdParty\\KhronosOpenXR\\include"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source\\ThirdParty\\KhronosOpenXR\\src\\common"
 -I"Runtime\\Launch\\Public"
 -I"Runtime\\SessionServices\\Public"
 -I"..\\Plugins\\Runtime\\AndroidPermission\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\AndroidPermission\\UHT"
 -I"..\\Plugins\\Runtime\\AndroidPermission\\Source"
 -I"..\\Plugins\\Runtime\\AndroidPermission\\Source\\AndroidPermission\\Classes"
 -I"..\\Plugins\\Runtime\\AndroidPermission\\Source\\AndroidPermission\\Public"
--isystem"C:\\Users\\cota-\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\sources\\android\\native_app_glue"
--isystem"C:\\Users\\cota-\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\sources\\android\\cpufeatures"
+-isystem"C:\\Users\\angel\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\sources\\android\\native_app_glue"
+-isystem"C:\\Users\\angel\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\sources\\android\\cpufeatures"
 -isystem"ThirdParty\\GuidelinesSupportLibrary\\GSL-1144\\include"
 -isystem"ThirdParty\\RapidJSON\\1.1.0"
 -isystem"ThirdParty\\OpenGL"
@@ -234,16 +234,16 @@
 -D_FORTIFY_SOURCE=2
 -DPLATFORM_USED_NDK_VERSION_INTEGER=32
 -DPLATFORM_64BITS=1
- --target=aarch64-none-linux-android32 --gcc-toolchain="C:/Users/cota-/AppData/Local/Android/Sdk/ndk/25.1.8937393\toolchains/llvm\prebuilt/windows-x86_64" --sysroot="C:/Users/cota-/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot" -DANDROID=1
+ --target=aarch64-none-linux-android32 --gcc-toolchain="C:\Users\angel\AppData\Local\Android\Sdk\ndk\25.1.8937393\toolchains/llvm\prebuilt/windows-x86_64" --sysroot="C:/Users/angel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot" -DANDROID=1
 -D__arm64__
 -DPLATFORM_ANDROID_ARM64=1
 -march=armv8-a
 -fsigned-char
--include-pch "C:\\Test\\uzhupud\\Intermediate\\Build\\Android\\a\\ArchViz\\Development\\Engine\\SharedPCH.Engine.Project.ValApi.Cpp20.h.gch"
--include "C:\\Test\\uzhupud\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRHMD\\Definitions.OculusXRHMD.h"
+-include-pch "E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Intermediate\\Build\\Android\\a\\ArchViz\\Development\\Engine\\SharedPCH.Engine.Project.ValApi.Cpp20.h.gch"
+-include "E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRHMD\\Definitions.OculusXRHMD.h"
 -x c++
 -std=c++20
 -fpch-validate-input-files-content
-"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRHMD\\Module.OculusXRHMD.1.cpp"
--MD -MF"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRHMD\\Module.OculusXRHMD.1.cpp.d"
--o "C:\\Test\\uzhupud\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRHMD\\Module.OculusXRHMD.1.cpp.o"
+"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRHMD\\Module.OculusXRHMD.1.cpp"
+-MD -MF"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRHMD\\Module.OculusXRHMD.1.cpp.d"
+-o "E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRHMD\\Module.OculusXRHMD.1.cpp.o"

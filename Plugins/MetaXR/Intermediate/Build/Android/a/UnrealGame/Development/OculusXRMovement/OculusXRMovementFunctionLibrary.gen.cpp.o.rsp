@@ -1,8 +1,8 @@
 -c
 -pipe
 -I"."
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source\\OculusXRHMD\\Private"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source\\OculusXRMovement\\Private"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source\\OculusXRHMD\\Private"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source\\OculusXRMovement\\Private"
 -I"Runtime\\Core\\Public"
 -I"Runtime\\Core\\Internal"
 -I"Runtime\\TraceLog\\Public"
@@ -130,13 +130,13 @@
 -I"Runtime\\LiveLinkMessageBusFramework\\Public"
 -I"..\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\HeadMountedDisplay\\UHT"
 -I"Runtime\\HeadMountedDisplay\\Public"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source\\ThirdParty\\OVRPlugin\\OVRPlugin\\Include"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\OculusXRHMD\\UHT"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source\\ThirdParty\\OVRPlugin\\OVRPlugin\\Include"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\OculusXRHMD\\UHT"
 -I"..\\Plugins\\Runtime\\OpenXR\\Source\\OpenXRHMD\\Private"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source\\OculusXRHMD\\Public"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source\\ThirdParty\\KhronosOpenXR\\include"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source\\ThirdParty\\KhronosOpenXR\\src\\common"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source\\OculusXRHMD\\Public"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source\\ThirdParty\\KhronosOpenXR\\include"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source\\ThirdParty\\KhronosOpenXR\\src\\common"
 -I"..\\Plugins\\Runtime\\XRBase\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\XRBase\\UHT"
 -I"..\\Plugins\\Runtime\\XRBase\\Source"
 -I"..\\Plugins\\Runtime\\XRBase\\Source\\XRBase\\Public"
@@ -158,12 +158,12 @@
 -I"..\\Plugins\\Runtime\\OpenXR\\Source\\OpenXRHMD\\Public"
 -I"..\\Plugins\\Runtime\\OpenXR\\Source\\OpenXRHMD\\Internal"
 -I"Runtime\\VulkanRHI\\Public"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\OculusXRMovement\\UHT"
--I"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Source\\OculusXRMovement\\Public"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\OculusXRMovement\\UHT"
+-I"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Source\\OculusXRMovement\\Public"
 -I"..\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\LiveLinkAnimationCore\\UHT"
 -I"Runtime\\LiveLinkAnimationCore\\Public"
--isystem"C:\\Users\\cota-\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\sources\\android\\native_app_glue"
--isystem"C:\\Users\\cota-\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\sources\\android\\cpufeatures"
+-isystem"C:\\Users\\angel\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\sources\\android\\native_app_glue"
+-isystem"C:\\Users\\angel\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\sources\\android\\cpufeatures"
 -isystem"ThirdParty\\GuidelinesSupportLibrary\\GSL-1144\\include"
 -isystem"ThirdParty\\RapidJSON\\1.1.0"
 -isystem"ThirdParty\\OpenGL"
@@ -232,16 +232,16 @@
 -D_FORTIFY_SOURCE=2
 -DPLATFORM_USED_NDK_VERSION_INTEGER=32
 -DPLATFORM_64BITS=1
- --target=aarch64-none-linux-android32 --gcc-toolchain="C:/Users/cota-/AppData/Local/Android/Sdk/ndk/25.1.8937393\toolchains/llvm\prebuilt/windows-x86_64" --sysroot="C:/Users/cota-/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot" -DANDROID=1
+ --target=aarch64-none-linux-android32 --gcc-toolchain="C:\Users\angel\AppData\Local\Android\Sdk\ndk\25.1.8937393\toolchains/llvm\prebuilt/windows-x86_64" --sysroot="C:/Users/angel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot" -DANDROID=1
 -D__arm64__
 -DPLATFORM_ANDROID_ARM64=1
 -march=armv8-a
 -fsigned-char
--include-pch "C:\\Test\\uzhupud\\Intermediate\\Build\\Android\\a\\ArchViz\\Development\\Engine\\SharedPCH.Engine.Project.ValApi.Cpp20.h.gch"
--include "C:\\Test\\uzhupud\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRMovement\\Definitions.OculusXRMovement.h"
+-include-pch "E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Intermediate\\Build\\Android\\a\\ArchViz\\Development\\Engine\\SharedPCH.Engine.Project.ValApi.Cpp20.h.gch"
+-include "E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRMovement\\Definitions.OculusXRMovement.h"
 -x c++
 -std=c++20
 -fpch-validate-input-files-content
-"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\OculusXRMovement\\UHT\\OculusXRMovementFunctionLibrary.gen.cpp"
--MD -MF"C:\\Test\\uzhupud\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRMovement\\OculusXRMovementFunctionLibrary.gen.cpp.d"
--o "C:\\Test\\uzhupud\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRMovement\\OculusXRMovementFunctionLibrary.gen.cpp.o"
+"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\UnrealGame\\Inc\\OculusXRMovement\\UHT\\OculusXRMovementFunctionLibrary.gen.cpp"
+-MD -MF"E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRMovement\\OculusXRMovementFunctionLibrary.gen.cpp.d"
+-o "E:\\Documentos\\Trabajos\\ArchVizFernando\\ArchViz\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRMovement\\OculusXRMovementFunctionLibrary.gen.cpp.o"

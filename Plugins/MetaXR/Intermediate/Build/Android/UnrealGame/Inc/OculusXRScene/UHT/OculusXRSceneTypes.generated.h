@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define OCULUSXRSCENE_OculusXRSceneTypes_generated_h
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneTypes_h_10_GENERATED_BODY \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneTypes_h_10_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FSceneTypesPlaceholder_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> OCULUSXRSCENE_API UScriptStruct* StaticStruct<struct FSceneTypesPlaceholder>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneTypes_h
+#define CURRENT_FILE_ID FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneTypes_h
 
 
 #define FOREACH_ENUM_EOCULUSXRBOUNDARYVISIBILITY(op) \

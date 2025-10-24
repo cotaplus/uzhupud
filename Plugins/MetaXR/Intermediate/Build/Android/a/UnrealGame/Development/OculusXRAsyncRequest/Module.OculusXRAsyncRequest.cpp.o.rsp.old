@@ -195,7 +195,7 @@
 -DPLATFORM_ANDROID_ARM64=1
 -march=armv8-a
 -fsigned-char
--include-pch "C:\\Test\\uzhupud\\Intermediate\\Build\\Android\\a\\ArchViz\\Development\\Engine\\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.gch"
+-include-pch "C:\\Test\\uzhupud\\Intermediate\\Build\\Android\\a\\ArchViz\\Development\\Engine\\SharedPCH.Engine.Project.ValApi.Cpp20.h.gch"
 -include "C:\\Test\\uzhupud\\Plugins\\MetaXR\\Intermediate\\Build\\Android\\a\\UnrealGame\\Development\\OculusXRAsyncRequest\\Definitions.OculusXRAsyncRequest.h"
 -x c++
 -std=c++20

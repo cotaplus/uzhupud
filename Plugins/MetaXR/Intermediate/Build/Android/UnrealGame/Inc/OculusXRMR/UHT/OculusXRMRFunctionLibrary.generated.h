@@ -16,7 +16,7 @@ class USceneComponent;
 #endif
 #define OCULUSXRMR_OculusXRMRFunctionLibrary_generated_h
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_RPC_WRAPPERS \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_RPC_WRAPPERS \
 	DECLARE_FUNCTION(execIsMrcActive); \
 	DECLARE_FUNCTION(execIsMrcEnabled); \
 	DECLARE_FUNCTION(execSetMrcScalingFactor); \
@@ -26,7 +26,7 @@ class USceneComponent;
 	DECLARE_FUNCTION(execGetOculusXRMRSettings);
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_INCLASS \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_INCLASS \
 private: \
 	static void StaticRegisterNativesUOculusXRMRFunctionLibrary(); \
 	friend struct Z_Construct_UClass_UOculusXRMRFunctionLibrary_Statics; \
@@ -35,7 +35,7 @@ public: \
 	DECLARE_SERIALIZER(UOculusXRMRFunctionLibrary)
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_STANDARD_CONSTRUCTORS \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UOculusXRMRFunctionLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UOculusXRMRFunctionLibrary) \
@@ -49,13 +49,13 @@ public: \
 	NO_API virtual ~UOculusXRMRFunctionLibrary();
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_18_PROLOG
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_GENERATED_BODY_LEGACY \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_18_PROLOG
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_RPC_WRAPPERS \
-	FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_INCLASS \
-	FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_STANDARD_CONSTRUCTORS \
+	FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_RPC_WRAPPERS \
+	FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_INCLASS \
+	FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h_21_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -63,7 +63,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> OCULUSXRMR_API UClass* StaticClass<class UOculusXRMRFunctionLibrary>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h
+#define CURRENT_FILE_ID FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRMR_Public_OculusXRMRFunctionLibrary_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

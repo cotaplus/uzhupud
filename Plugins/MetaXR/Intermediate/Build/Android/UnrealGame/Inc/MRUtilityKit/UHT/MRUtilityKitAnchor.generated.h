@@ -22,7 +22,7 @@ struct FRandomStream;
 #endif
 #define MRUTILITYKIT_MRUtilityKitAnchor_generated_h
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execSpawnInterior); \
 	DECLARE_FUNCTION(execGetFacingDirection); \
 	DECLARE_FUNCTION(execIsPositionInVolumeBounds); \
@@ -39,7 +39,7 @@ struct FRandomStream;
 	DECLARE_FUNCTION(execIsPositionInBoundary);
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_INCLASS_NO_PURE_DECLS \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMRUKAnchor(); \
 	friend struct Z_Construct_UClass_AMRUKAnchor_Statics; \
@@ -48,7 +48,7 @@ public: \
 	DECLARE_SERIALIZER(AMRUKAnchor)
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_ENHANCED_CONSTRUCTORS \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AMRUKAnchor(AMRUKAnchor&&); \
@@ -60,13 +60,13 @@ public: \
 	NO_API virtual ~AMRUKAnchor();
 
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_23_PROLOG
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_GENERATED_BODY \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_23_PROLOG
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_INCLASS_NO_PURE_DECLS \
-	FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_ENHANCED_CONSTRUCTORS \
+	FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_INCLASS_NO_PURE_DECLS \
+	FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h_26_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -74,7 +74,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> MRUTILITYKIT_API UClass* StaticClass<class AMRUKAnchor>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Test_uzhupud_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h
+#define CURRENT_FILE_ID FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_MRUtilityKit_Public_MRUtilityKitAnchor_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

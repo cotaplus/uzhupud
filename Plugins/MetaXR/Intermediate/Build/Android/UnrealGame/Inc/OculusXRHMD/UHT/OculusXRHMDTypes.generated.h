@@ -14,35 +14,35 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define OCULUSXRHMD_OculusXRHMDTypes_generated_h
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h_32_GENERATED_BODY \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h_32_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FOculusXRHmdUserProfileField_Statics; \
 	OCULUSXRHMD_API static class UScriptStruct* StaticStruct();
 
 
 template<> OCULUSXRHMD_API UScriptStruct* StaticStruct<struct FOculusXRHmdUserProfileField>();
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h_48_GENERATED_BODY \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h_48_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FOculusXRHmdUserProfile_Statics; \
 	OCULUSXRHMD_API static class UScriptStruct* StaticStruct();
 
 
 template<> OCULUSXRHMD_API UScriptStruct* StaticStruct<struct FOculusXRHmdUserProfile>();
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h_217_GENERATED_BODY \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h_217_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FOculusXRGuardianTestResult_Statics; \
 	OCULUSXRHMD_API static class UScriptStruct* StaticStruct();
 
 
 template<> OCULUSXRHMD_API UScriptStruct* StaticStruct<struct FOculusXRGuardianTestResult>();
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h_253_GENERATED_BODY \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h_253_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FOculusXRSplashDesc_Statics; \
 	OCULUSXRHMD_API static class UScriptStruct* StaticStruct();
 
 
 template<> OCULUSXRHMD_API UScriptStruct* StaticStruct<struct FOculusXRSplashDesc>();
 
-#define FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h_370_GENERATED_BODY \
+#define FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h_370_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FOculusXRPerformanceMetrics_Statics; \
 	OCULUSXRHMD_API static class UScriptStruct* StaticStruct();
 
@@ -50,7 +50,7 @@ template<> OCULUSXRHMD_API UScriptStruct* StaticStruct<struct FOculusXRSplashDes
 template<> OCULUSXRHMD_API UScriptStruct* StaticStruct<struct FOculusXRPerformanceMetrics>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Test_uzhupud_Plugins_MetaXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h
+#define CURRENT_FILE_ID FID_Documentos_Trabajos_ArchVizFernando_ArchViz_Plugins_MetaXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h
 
 
 #define FOREACH_ENUM_EOCULUSXRTRACKEDDEVICETYPE(op) \
